@@ -1,10 +1,9 @@
 # Fullstack_Project
 Web Application project
 
-'''
-used technologies :
-BackEnd - Node.js
-Database - MySQL
-API - Swagger.io
-FrontEnd - Vue.js
+used technologies : <br />
+BackEnd - Node.js <br />
+Database - MySQL <br />
+API - Swagger.io <br />
+FrontEnd - Vue.js <br />
 '''
